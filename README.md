@@ -6,7 +6,7 @@ This program allows a user to browse through a list of movies, select seats and 
 IntelliJ Idea  
 ## Task 2: Hospital Information System
 ### Description: 
-This is a Java program for hospital staff to input, retrieve,book appointments and update patient information.
+This is a Java program for hospital staff to input, retrieve and update patient information.
 ### Software:
 IntelliJ Idea,MySQL, JavaSwing
 ## Task 3: Vehicle Recognition System
